@@ -1,0 +1,14 @@
+---
+title: "Nicole Eikmeier"
+---
+
+<img align="left" src="eikmeier.jpg" width=200 float="left" margin-right=7px margin-top=2% padding-right=10px margin-bottom=1%> &nbsp; &nbsp; &nbsp;
+Here is some text about myself let's see if I can make it wrap around to multiple lines so that I can see the spacing
+
+
+
+
+This website was made with Quarto.
+
+::: {.column-margin}
+:::
