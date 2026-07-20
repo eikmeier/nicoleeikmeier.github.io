@@ -11,6 +11,8 @@ website:
         text: Teaching
       - href: advising.qmd
         text: Advising
+      - href: other.qmd
+        text: Other
 
 format:
   html:
