@@ -1,4 +1,24 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
-title: Dr. Nicole Eikmeier
+project:
+  type: website
+
+website:
+  title: "Dr. Nicole Eikmeier"
+  navbar:
+    left:
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: advising.qmd
+        text: Advising
+      - href: other.qmd
+        text: Other
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+    page-layout: article
